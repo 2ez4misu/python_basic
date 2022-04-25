@@ -11,7 +11,9 @@ print(a + b)
 #các kiểu dữ liệu
 age_var = 27
 print(type(age_var))
-name_var = Misu
+name_var = "Misu"
 print(type(name_var))
 pi = 3.14
 print(type(pi))
+
+#các kiểu dữ liệu số
