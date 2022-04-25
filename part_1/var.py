@@ -1,9 +1,4 @@
 #đổi giá trị của biến:
-from socket import ALG_SET_AEAD_ASSOCLEN
-
-from jwt import MissingRequiredClaimError
-
-
 var_a = 100
 print(var_a)
 
