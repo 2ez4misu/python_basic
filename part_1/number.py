@@ -11,4 +11,9 @@ print(type(b))
 c = 10/3
 print(c) 
 
-#
+#phân số:
+from fractions import Fraction
+Fraction(10,7)
+print(Fraction(10,7))
+print(type(Fraction(10,7)))
+
