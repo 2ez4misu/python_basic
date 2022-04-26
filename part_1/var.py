@@ -15,5 +15,3 @@ name_var = "Misu"
 print(type(name_var))
 pi = 3.14
 print(type(pi))
-
-#các kiểu dữ liệu số
