@@ -16,3 +16,4 @@ from fractions import Fraction
 Fraction(10,7)
 print(Fraction(10,7))
 print(type(Fraction(10,7)))
+
