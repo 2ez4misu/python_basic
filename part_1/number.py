@@ -17,3 +17,7 @@ Fraction(10,7)
 print(Fraction(10,7))
 print(type(Fraction(10,7)))
 
+#số phức:
+d = complex(3,1)
+print(d)
+print(type(d))
