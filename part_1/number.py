@@ -21,3 +21,5 @@ print(type(Fraction(10,7)))
 d = complex(3,1)
 print(d)
 print(type(d))
+
+#các phép toán với số:
