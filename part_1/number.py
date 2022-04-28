@@ -23,3 +23,12 @@ print(d)
 print(type(d))
 
 #các phép toán với số:
+###
+# cộng
+# trừ
+# nhân
+# chia
+# thương nguyên của 1 số
+# chia lấy dư
+# lũy thừa
+# ###
