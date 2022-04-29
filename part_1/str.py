@@ -19,3 +19,12 @@ a = "I'm Misu"
 # "\", #sai
 # """\""", #sai
 # '' #đúng
+
+#sự khác nhau của 
+b = 69
+c = '69'
+#b là số int còn c là chuỗi str
+
+str1 = '35\53ni34' 
+str2 = '\\n'
+str3 = "\/\/\/\\/\/"
