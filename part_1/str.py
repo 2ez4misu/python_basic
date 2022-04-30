@@ -28,3 +28,7 @@ c = '69'
 str1 = '35\53ni34' 
 str2 = '\\n'
 str3 = "\/\/\/\\/\/"
+
+#Chuỗi trần: để tránh \ ng ta thêm r+ chuỗi để loại ỏ tác dụng của \
+print(r"hello\world")
+
