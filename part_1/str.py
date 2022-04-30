@@ -31,4 +31,14 @@ str3 = "\/\/\/\\/\/"
 
 #Chuỗi trần: để tránh \ ng ta thêm r+ chuỗi để loại ỏ tác dụng của \
 print(r"hello\world")
+#tác dụng chính chủ yếu để viết đường dẫn thư mục các thứ
 
+#toán tử sử dụng được vs chuỗi trong python
+Str_a = "Im Misu"
+Str_b = "Come With Me"
+#toán tử +
+print(Str_a + Str_b)
+#toán tử x
+print(Str_a * 10)
+#toán tử in
+print("M" in Str_a)
