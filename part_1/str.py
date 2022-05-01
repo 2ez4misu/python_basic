@@ -51,3 +51,11 @@ print(Str_a[3])
 print(Str_a[3:7])
 # x:y là cắt từ x đến y với bước nhảy cắt z. để trống thì mặc định là None. X = none = 0
 # y = none = vị trí cuối. z = none = 1. Có thể sử dụng số âm 1 cách thông minh (tính ngược).
+
+#ép kiểu dữ liệu:
+var_a = '710'
+int(var_a) #biến chuỗi var_a từ str về int. K thể chuyển nếu số dạng float
+float(var_a) # biến chuỗi var_a dạng float về số float
+
+#thay thế chữ trong chuỗi là k thể, chúng ta phải thực hiện các phương pháp cắt ghép để tạo chuỗi mới
+
