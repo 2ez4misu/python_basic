@@ -46,3 +46,8 @@ print("M" in Str_a)
 #Indexing và cắt chuỗi
 print(Str_a[3])
 #kết quả trả về ký tự của vị trí thứ 4 của chuỗi là M (tính từ 0)
+
+#cắt chuỗi chuỗi[x:y:z]
+print(Str_a[3:7])
+# x:y là cắt từ x đến y với bước nhảy cắt z. để trống thì mặc định là None. X = none = 0
+# y = none = vị trí cuối. z = none = 1. Có thể sử dụng số âm 1 cách thông minh (tính ngược).
