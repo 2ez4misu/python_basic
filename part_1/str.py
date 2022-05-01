@@ -42,3 +42,7 @@ print(Str_a + Str_b)
 print(Str_a * 10)
 #toán tử in
 print("M" in Str_a)
+
+#Indexing và cắt chuỗi
+print(Str_a[3])
+#kết quả trả về ký tự của vị trí thứ 4 của chuỗi là M (tính từ 0)
