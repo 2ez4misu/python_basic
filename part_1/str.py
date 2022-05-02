@@ -60,3 +60,6 @@ float(var_a) # biến chuỗi var_a dạng float về số float
 #thay thế chữ trong chuỗi là k thể, chúng ta phải thực hiện các phương pháp cắt ghép để tạo chuỗi mới
 
 #3 định dạng của chuỗi trong python
+
+#Định dạng bằng toán tử %
+#
