@@ -62,4 +62,5 @@ float(var_a) # biến chuỗi var_a dạng float về số float
 #3 định dạng của chuỗi trong python
 
 #Định dạng bằng toán tử %
-#
+str_c = 'Hello %s'('World')
+str_d = 'My name is %s, I come from %s'('Misu','Vietnam')
