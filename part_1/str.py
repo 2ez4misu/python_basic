@@ -68,5 +68,3 @@ str_d = 'My name is %s, I come from %s'('Misu','Vietnam')
 #%s str
 #%d số nguyên
 #%f số thực
-
-Cố lên :<
